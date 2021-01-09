@@ -1,5 +1,5 @@
 # SnakeGame
-Classic Snake Game with Rainbow Vibes
+Classic Snake Game with Rainbow Vibes.
 Enjoy!
 
 
